@@ -1,4 +1,4 @@
-# Gene Function and Phenotype
+≤≥# Gene Function and Phenotype
 
 ## Files
 Experimentally-based information about gene function and plant phenotype, and the associated supporting references, are stored in three files per species, in a **gene_functions** directory.
