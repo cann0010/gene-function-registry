@@ -1,6 +1,9 @@
 ≤≥# Gene Function and Phenotype
 
 ## Files
+asdf
+thanks for the fish
+
 Experimentally-based information about gene function and plant phenotype, and the associated supporting references, are stored in three files per species, in a **gene_functions** directory.
 Those files are the following - with "gensp" being the abbreviation for the present **gen**us and **sp**ecies:
 - gensp.traits.yml
